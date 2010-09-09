@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3235
+
+show all color in term or gui with vim.
+
+term:
+:call ShowColorTerm()
+gui:
+:call ShowColor(0x00,0xFF,15)
